@@ -1,0 +1,76 @@
+.fit-container{
+	height:100px;
+	overflow: auto;
+}
+
+.panel-custom {
+	margin-top: 0px !important;
+	border-radius: 0px !important;
+	height: auto;
+}
+
+.vgio-class {
+	height:400px;
+}
+
+.vgio-height {
+	height: inherit;
+}
+
+.vgio-screen {
+
+}
+
+.vgio_play_screen {
+	height:100%;
+	position:relative;
+	z-index: 10000;
+}
+
+.vgio_play_screen:hover {
+	background: #fff;
+
+}
+
+
+.vgio_play_icon {
+	position:absolute;
+	top:33%;
+	left:33%;
+	width:120px;
+	height:120px;
+	-webkit-transition: opacity linear .3s;
+    transition: opacity linear .3s;
+    opacity: 0;
+}
+
+.no-gut{
+	margin-left: 0px;
+	margin-right: 0p;
+}
+
+.vgio-screen-filter {
+	height:100%;
+	width: 100%;
+	position:absolute;
+	background: #ffffff;
+    -webkit-transition: opacity linear .3s;
+    transition: opacity linear .3s;
+    opacity: 0;
+}
+
+.show-me {
+    opacity:.95;
+}
+
+.panel-body-custom {
+	overflow: auto;
+}
+
+button {
+	 background:none!important;
+     border:none; 
+     padding:0!important;
+     font: inherit;
+     cursor: pointer;
+}
