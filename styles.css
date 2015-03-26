@@ -35,10 +35,10 @@
 
 .vgio_play_icon {
 	position:absolute;
-	top:33%;
+	top:31%;
 	left:33%;
-	width:120px;
-	height:120px;
+	width:33%;
+	height:33%;
 	-webkit-transition: opacity linear .3s;
     transition: opacity linear .3s;
     opacity: 0;
