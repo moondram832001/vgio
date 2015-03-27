@@ -19,6 +19,7 @@ http://moondram832001.github.io/
 vgio uses the following open source projects to serve its purpose:
 
 * [AngularJS]  - a big thank you !
+* [howler.js]
 * [Twitter Bootstrap] 
 * [jQuery] 
 
@@ -32,7 +33,7 @@ vgio uses the following open source projects to serve its purpose:
 [Twitter Bootstrap]:http://twitter.github.com/bootstrap/
 [jQuery]:http://jquery.com
 [AngularJS]:http://angularjs.org
-
+[howler.js]:https://github.com/goldfire/howler.js/
 
    
    
